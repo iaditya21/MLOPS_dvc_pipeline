@@ -16,6 +16,7 @@ os.makedirs(log_dir, exist_ok=True)
 logger = logging.getLogger('model_evaluation')
 logger.setLevel('DEBUG')
 
+
 console_handler = logging.StreamHandler()
 console_handler.setLevel('DEBUG')
 
