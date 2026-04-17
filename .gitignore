@@ -3,6 +3,8 @@
 data
 models
 reports
+.dvc/*
+.ml-ops
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
